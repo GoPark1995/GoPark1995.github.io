@@ -1,0 +1,9 @@
+/* styles.css */
+header {
+    color: #333; /* 文本颜色为深灰色 */
+    background-color: #f7f7f7; /* 背景颜色为浅灰色 */
+}
+
+.container {
+    color: #666; /* 文本颜色为中灰色 */
+}
